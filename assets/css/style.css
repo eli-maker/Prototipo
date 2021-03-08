@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tituloPagina{
+    font-size: 20px;
+}
+.menu{
+    background-color: rgb(102, 99, 145);
+}
+.listaMenu{
+    display: flex;
+    justify-content: flex-end;
+}
+.carouselStyle{
+    height: 700px;
+}
+
+.learMoreButton {
+    color: black;
+    background-color: antiquewhite;
+    border: none;
+    
+}
+
+.learMoreButton:hover {
+    background-color: rgb(102, 99, 145);;
+}
+
